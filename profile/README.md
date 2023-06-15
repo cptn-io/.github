@@ -2,7 +2,6 @@
 
 ![Logo](https://github.com/cptn-io/el-cptn/raw/main/logos/og-image.png)
 
-![GitHub](https://img.shields.io/github/license/cptn-io/el-cptn)
 [![](https://dcbadge.vercel.app/api/server/ZGFyzhDjZ2)](https://discord.gg/ZGFyzhDjZ2)
 
 cptn.io (pronounced captain.io) is an open-source self-hostable platform that helps develop and deploy integrations and data pipelines quickly and easily.
